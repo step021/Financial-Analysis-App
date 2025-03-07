@@ -1,0 +1,42 @@
+I want to build a comprehensive market analysis app that:
+
+Users can run different models 
+
+
+#navbar for learning, options pricing, predict stock prices, company financials 
+
+#company financials page workflow
+* enter ticker
+* click submit
+* displays balance sheet, income statement, and cashflow statement 
+
+
+
+
+
+
+
+
+
+Price Options
+Black Scholes Model
+Monte Carlo Stimulation 
+
+
+Predict Stock Prices
+Time Series analysis
+Regression Modeling
+Neural Network 
+Web Scrape
+* Financial News(sentiment), SEC Fillings, company reports
+
+
+1. React Frontend for dashboard
+2. Flask Backend 
+3. Alpaca API for real time financial data
+4. Yahoo Finance API for historical data 
+5. Tensor Flow for Machine Learning 
+
+
+
+
